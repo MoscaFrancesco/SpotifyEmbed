@@ -4,6 +4,7 @@ function InitBlob(){
     let blob;
     let BlobColor = "#FFF"
     
+    
     class Blob {
       constructor() {
         this.points = [];
