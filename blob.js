@@ -107,7 +107,7 @@ function InitBlob(){
         }
       }
       get radius() {
-        return this._radius || 150;
+        return this._radius || 250;
       }
       
       set position(value) {
